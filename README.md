@@ -9,9 +9,9 @@
 
 **Habiel-Amin Abromand**  
 Centroallee 273-277, 46047 Oberhausen  
-habiel.abromand@googlemail.com
+info@consilu.de
 
-Kontakt: habiel.abromand@googlemail.com
+Kontakt: info@consilu.de
 
 ---
 
@@ -159,7 +159,7 @@ Wir behalten uns vor, diese Datenschutzerkl√§rung bei Bedarf zu aktualisieren. √
 
 Bei Fragen zum Datenschutz kontaktieren Sie uns unter:
 
-**Email:** habiel.abromand@googlemail.com 
+**Email:** info@consilu.de 
 **Webseite:** www.consilu.de www.messaldo.de
 
 ---
