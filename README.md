@@ -195,5 +195,5 @@ Web: https://www.edoeb.admin.ch
 ✅ **Jederzeit löschbar** - In der App oder durch Deinstallation  
 
 ---
-
+FreePik Icons Salah: <a href="https://www.flaticon.com/free-icons/prayer" title="prayer icons">Prayer icons created by Freepik - Flaticon</a>
 **Vielen Dank für Ihr Vertrauen in Salah Kids! 🌟**
