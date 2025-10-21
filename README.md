@@ -66,6 +66,23 @@ Diese Daten werden von Google gemäß der [Google-Datenschutzerklärung](https:/
 ### 4.3 Premium-Version (Werbefrei)
 Nutzer können die **Premium-Version** erwerben, um alle Werbung zu deaktivieren. Nach dem Kauf werden keine weiteren Daten an AdMob übermittelt.
 
+
+### 4.5 Quran.com API (Koranverse und Audio) ####
+
+Salah Kids nutzt die Quran.com API, um Koranverse und Audio-Rezitationen 
+bereitzustellen:
+
+✅ Zweck: Abruf von Korantexten und Audio-Dateien für Lernzwecke
+✅ Datenübertragung: Technische Anfragen an Quran.com-Server
+✅ Übermittelte Daten: 
+   - Technische Informationen (IP-Adresse, Gerätetyp)
+   - Angefragte Sure/Vers-Nummer
+✅ Keine Nutzerprofile oder Tracking durch Salah Kids
+
+Weitere Informationen: 
+- Quran.com Datenschutzerklärung: https://quran.com/privacy
+- API-Dokumentation: https://api-docs.quran.com
+
 ---
 
 ## 5. In-App-Käufe (Google Play Billing)
